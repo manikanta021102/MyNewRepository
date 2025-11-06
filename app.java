@@ -10,3 +10,10 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+
+# dev2 code
+  public class Solution {
+    public static int calculateSum(int number) {
+        
+    }
+}
